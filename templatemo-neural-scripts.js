@@ -202,8 +202,9 @@ const cardDetails = {
       <li>$15 per 20-minute block</li>
       <li>$20 per 30-minute block</li>
       <li>$40 per hour block</li>
+       <li>Please Note:That children under 11 years old must be accompined by an adult.</li>
       <li>Max 2-hour session to align with school bus schedules.</li>
-      <li>Access to console or board game room.</li>
+      <li>Access to console and chill zone.</li>
     </ul>
   `,
   sunday: `
