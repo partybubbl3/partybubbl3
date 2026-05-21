@@ -200,9 +200,10 @@ const cardDetails = {
     <ul>
       <li>Monday–Friday, 2:00PM – 4:30PM</li>
       <li>$15 per 20-minute block</li>
+      <li>$20 per 30-minute block</li>
+      <li>$40 per hour block</li>
       <li>Max 2-hour session to align with school bus schedules.</li>
       <li>Access to console or board game room.</li>
-      <li>Primary and Secondary School Students in uniform.</li>
     </ul>
   `,
   sunday: `
