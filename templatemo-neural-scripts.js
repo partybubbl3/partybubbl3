@@ -175,36 +175,24 @@ https://templatemo.com/tm-597-neural-glass
         // ================= Hexagon Card Overlay =================
 const cardDetails = {
   mobile: `
-    <h3>Mobile Console Rentals</h3>
+    <h3>Public Experience</h3>
     <ul>
-      <li>Base Fee: $150 for the first hour</li>
-      <li>Host Fee: $50 per event</li>
-      <li>Additional Hours: $125 per hour after the first hour</li>
-      <li>Maximum Booking: 6 hours</li>
-      <li>Included: Access to one console and all games available.</li>
-      <li>Example: 3-hour event = $450</li>
+      <li>Exciting information is on the way!</li>
+      <li>Check back soon for complete details and pricing.</li>
     </ul>
   `,
   instore: `
-    <h3>In-Store Console & Board Games</h3>
+    <h3>Bubble Clyb Membership</h3>
     <ul>
-      <li>$25 per person - 30 mins of unlimited access to console and controllers</li>
-      <li>$40 per person - 1 hour of unlimited access to console</li>
-      <li>Includes free 30 mins access to our chill zone</li>
-      <li>Special - $50 - 1 hour (30 mins Gaming & 30 mins Bubble Quest)</li>
-      <li>Special - $100 -2 hours (1 hour Gaming & 1 hour Bubble Quest)</li>
+      <li>Membership options are currently being finalized.</li>
+      <li>Details and pricing coming soon.</li>
     </ul>
   `,
   student: `
-    <h3>Student After School</h3>
+    <h3>Bubble Club Rates</h3>
     <ul>
-      <li>Monday–Friday, 2:00PM – 4:30PM</li>
-      <li>$15 per 20-minute block</li>
-      <li>$20 per 30-minute block</li>
-      <li>$40 per hour block</li>
-       <li>Please Note: That children under 11 years old must be accompanied by an adult.</li>
-      <li>Max 2-hour session to align with school bus schedules.</li>
-      <li>Access to console and chill zone.</li>
+      <li>Rates and package information will be released soon.</li>
+      <li> Check back for updates.</li>
     </ul>
   `,
   sunday: `
