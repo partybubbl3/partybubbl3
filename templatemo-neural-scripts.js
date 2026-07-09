@@ -182,7 +182,7 @@ const cardDetails = {
     </ul>
   `,
   instore: `
-    <h3>Bubble Clyb Membership</h3>
+    <h3>Bubble Club Membership</h3>
     <ul>
       <li>Membership options are currently being finalized.</li>
       <li>Details and pricing coming soon.</li>
