@@ -257,7 +257,7 @@ const cardDetails = {
 <div class="game-item"><img src="images/brawlhalla.png" alt="Brawlhalla"><span>Brawlhalla</span></div>
 <div class="game-item"><img src="images/Dragonball Fighterz.png" alt="Dragonball FighterZ"><span>Dragonball FighterZ</span></div>
 <div class="game-item"><img src="images/My Hero One's Justice.png" alt="My Hero One's Justice"><span>My Hero One's Justice</span></div>
-<div class="game-item"><img src="images/MY HERO ULTRA RUMBLE.png" alt="My Hero Ultra"><span>MY HERO ULTRA RUMBLE</span></div>
+<div class="game-item"><img src="images/MY HERO ULTRA RUMBLE.png" alt="My Hero Ultra"><span>My Hero Ultra Rumble</span></div>
 <div class="game-item"><img src="images/pokemonunite.png" alt="Pokemon Unite"><span>Pokemon Unite</span></div>
 </div>
 
