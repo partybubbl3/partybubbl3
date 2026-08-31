@@ -228,7 +228,6 @@ const cardDetails = {
 <div class="game-item"><img src="images/mariokart8.png" alt="Mario Kart 8"><span>Mario Kart 8</span></div>
 <div class="game-item"><img src="images/nintendosports.png" alt="Nintendo Sports"><span>Nintendo Sports</span></div>
 <div class="game-item"><img src="images/Super Mario 3D World.png" alt="Super Mario 3D World"><span>Super Mario 3D World</span></div>
-<div class="game-item"><img src="images/Supermario Bros Wonder.png" alt="Super Mario Bros Wonder"><span>Super Mario Bros Wonder</span></div>
 <div class="game-item"><img src="images/supermarioodyssey.png" alt="Super Mario Odyssey"><span>Super Mario Odyssey</span></div>
 <div class="game-item"><img src="images/Super Mario U Deluxe.png" alt="Super Mario U Deluxe"><span>Super Mario U Deluxe</span></div>
 
@@ -238,7 +237,6 @@ const cardDetails = {
 
 <div class="game-item"><img src="images/Battle Crashers.png" alt="Battle Crashers"><span>Battle Crashers</span></div>
 <div class="game-item"><img src="images/fallguys.png" alt="Fall Guys"><span>Fall Guys</span></div>
-<div class="game-item"><img src="images/luigismansion3.png" alt="Luigi's Mansion 3"><span>Luigi's Mansion 3</span></div>
 <div class="game-item"><img src="images/overcooked2.png" alt="Overcooked 2"><span>Overcooked 2</span></div>
 <div class="game-item"><img src="images/Pizza Farming.png" alt="Pizza Farming"><span>Pizza Farming</span></div>
 <div class="game-item"><img src="images/Tools Up.png" alt="Tools Up!"><span>Tools Up!</span></div>
@@ -255,7 +253,6 @@ const cardDetails = {
 <div class="game-item"><img src="images/Timelie.png" alt="Timelie"><span>Timelie</span></div>
 
 <div class="game-item"><img src="images/brawlhalla.png" alt="Brawlhalla"><span>Brawlhalla</span></div>
-<div class="game-item"><img src="images/Dragonball Fighterz.png" alt="Dragonball FighterZ"><span>Dragonball FighterZ</span></div>
 <div class="game-item"><img src="images/My Hero One's Justice.png" alt="My Hero One's Justice"><span>My Hero One's Justice</span></div>
 <div class="game-item"><img src="images/MY HERO ULTRA RUMBLE.png" alt="My Hero Ultra"><span>My Hero Ultra Rumble</span></div>
 <div class="game-item"><img src="images/pokemonunite.png" alt="Pokemon Unite"><span>Pokemon Unite</span></div>
