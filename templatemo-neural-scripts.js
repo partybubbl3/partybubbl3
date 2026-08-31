@@ -220,10 +220,6 @@ const cardDetails = {
   games: `
 <h3>Nintendo Games Available (More to Come)</h3>
 <div class="games-grid">
-  <!-- FAMILY GAMES -->
-<h3 class="game-category-title">Family Games</h3>
-<div class="games-grid">
-
   <div class="game-item"><img src="images/Bowser's Fury.png" alt="Bowser's Fury"><span>Bowser's Fury</span></div>
   <div class="game-item"><img src="images/Captain Toad.png" alt="Captain Toad"><span>Captain Toad</span></div>
   <div class="game-item"><img src="images/Kart Racers 3.png" alt="Kart Racers"><span>Kart Racers</span></div>
@@ -234,25 +230,9 @@ const cardDetails = {
   <div class="game-item"><img src="images/Supermario Bros Wonder.png" alt="Super Mario Bros Wonder"><span>Super Mario Bros Wonder</span></div>
   <div class="game-item"><img src="images/supermarioodyssey.png" alt="Super Mario Odyssey"><span>Super Mario Odyssey</span></div>
   <div class="game-item"><img src="images/Super Mario U Deluxe.png" alt="Super Mario U Deluxe"><span>Super Mario U Deluxe</span></div>
-
-</div>
-
-
-<!-- AGES 4–12 -->
-<h3 class="game-category-title">Ages 4–12</h3>
-<div class="games-grid">
-
   <div class="game-item"><img src="images/Bluey.png" alt="Bluey"><span>Bluey</span></div>
   <div class="game-item"><img src="images/My Baby.png" alt="My Baby"><span>My Baby</span></div>
   <div class="game-item"><img src="images/PAW Patrol World.png" alt="PAW Patrol World"><span>PAW Patrol World</span></div>
-
-</div>
-
-
-<!-- GROUP GAMES -->
-<h3 class="game-category-title">Group Games</h3>
-<div class="games-grid">
-
   <div class="game-item"><img src="images/Battle Crashers.png" alt="Battle Crashers"><span>Battle Crashers</span></div>
   <div class="game-item"><img src="images/fallguys.png" alt="Fall Guys"><span>Fall Guys</span></div>
   <div class="game-item"><img src="images/luigismansion3.png" alt="Luigi's Mansion 3"><span>Luigi's Mansion 3</span></div>
@@ -260,14 +240,6 @@ const cardDetails = {
   <div class="game-item"><img src="images/Pizza Farming.png" alt="Pizza Farming"><span>Pizza Farming</span></div>
   <div class="game-item"><img src="images/Tools Up.png" alt="Tools Up!"><span>Tools Up!</span></div>
   <div class="game-item"><img src="images/unravel2.png" alt="Unravel 2"><span>Unravel 2</span></div>
-
-</div>
-
-
-<!-- PUZZLES & ADVENTURE -->
-<h3 class="game-category-title">Puzzles & Adventure</h3>
-<div class="games-grid">
-
   <div class="game-item"><img src="images/Agent A.png" alt="Agent A"><span>Agent A</span></div>
   <div class="game-item"><img src="images/aspire.png" alt="Aspire"><span>Aspire</span></div>
   <div class="game-item"><img src="images/Cat Quest 2.png" alt="Cat Quest 2"><span>Cat Quest 2</span></div>
@@ -277,20 +249,11 @@ const cardDetails = {
   <div class="game-item"><img src="images/Jenny Leclue.png" alt="Jenny Leclue"><span>Jenny Leclue</span></div>
   <div class="game-item"><img src="images/Little Strays.png" alt="Little Strays"><span>Little Strays</span></div>
   <div class="game-item"><img src="images/Timelie.png" alt="Timelie"><span>Timelie</span></div>
-
-</div>
-
-
-<!-- BATTLES -->
-<h3 class="game-category-title">Battles</h3>
-<div class="games-grid">
-
   <div class="game-item"><img src="images/brawlhalla.png" alt="Brawlhalla"><span>Brawlhalla</span></div>
   <div class="game-item"><img src="images/Dragonball Fighterz.png" alt="Dragonball FighterZ"><span>Dragonball FighterZ</span></div>
   <div class="game-item"><img src="images/My Hero One's Justice.png" alt="My Hero One's Justice"><span>My Hero One's Justice</span></div>
   <div class="game-item"><img src="images/MY HERO ULTRA RUMBLE.png" alt="MY HERO ULTRA RUMBLE"><span>MY HERO ULTRA RUMBLE</span></div>
   <div class="game-item"><img src="images/pokemonunite.png" alt="Pokemon Unite"><span>Pokemon Unite</span></div>
-
 </div>
   `
 };
