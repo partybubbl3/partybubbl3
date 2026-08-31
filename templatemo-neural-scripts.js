@@ -175,10 +175,19 @@ https://templatemo.com/tm-597-neural-glass
         // ================= Hexagon Card Overlay =================
 const cardDetails = {
   mobile: `
-    <h3>Public Experience</h3>
+    <h3>Social Lounge</h3>
     <ul>
-      <li>Exciting information is on the way!</li>
+      <li>Private Access to Room 1
+Inclusive of Board Games, Books, 
+Nintendo Games & More </li>
       <li>Check back soon for complete details and pricing.</li>
+      Group Size	Rate
+Up to 4 Guests	$150/hour
+Up to 6 Guests	$215/hour
+Up to 10 Guests	$350/hour
+Up to 10 Students**	$250/hour
+
+**Student Special: Weekdays, 2 PM–5 PM
     </ul>
   `,
   instore: `
