@@ -177,8 +177,7 @@ const cardDetails = {
   mobile: `
     <h3>Social Lounge</h3>
     <ul>
-      <li>Private Access to Room 1 Inclusive of Board Games, Books, Nintendo Games & More </li>
-      <li>Check back soon for complete details and pricing.</li>
+      <li>Private Access to Room 1 Inclusive of board games, books, Nintendo games & More! </li>
       <li>Up to 4 Guests	$150/hour</li>
       <li>Up to 6 Guests	$215/hour</li>
       <li>Up to 10 Guests	$350/hour</li>
@@ -189,15 +188,21 @@ const cardDetails = {
   instore: `
     <h3>Bubble Club Membership</h3>
     <ul>
-      <li>Membership options are currently being finalized.</li>
-      <li>Details and pricing coming soon.</li>
+      <li>Join the Party Bubble Club and enjoy exclusive benefits and stay connected to Party Bubble with a monthly membership.</li>
+      <li>Adult Membership — $125/month</li>
+      <li>Student Membership — $100/month</li>
     </ul>
   `,
   student: `
-    <h3>Bubble Club Rates</h3>
+    <h3>Bubble Design</h3>
     <ul>
-      <li>Rates and package information will be released soon.</li>
-      <li> Check back for updates.</li>
+      <li>Add an activity and create something that's uniquely yours during your stay!</li>
+      <li> Additional Activities Per Guest</li>
+      <li> Charm Creation  $30 </li>
+      <li> Sticker Decoration  $30 </li>
+      <li> Patch Design        $30 </li>
+      <li> Perler Bead Art     $30 </li>
+     
     </ul>
   `,
   sunday: `
